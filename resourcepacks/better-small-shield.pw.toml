@@ -1,0 +1,13 @@
+name = "Small Shield"
+filename = "Better Small Shield.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7MeO8tkd/versions/flk0t2YN/Better%20Small%20Shield.zip"
+hash-format = "sha512"
+hash = "53a261725c28f32e1176b7997e060ca8c90f2b4b17ed991d5e9a12d25d0cbc85f038188102c3d170c25ccf1a3e4517113bf764fc4e28d58a79140e274b66164a"
+
+[update]
+[update.modrinth]
+mod-id = "7MeO8tkd"
+version = "flk0t2YN"

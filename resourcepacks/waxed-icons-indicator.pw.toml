@@ -1,0 +1,13 @@
+name = "Waxed Icons Indicator"
+filename = "Waxed Indicator 1.1.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tNQTi6ma/versions/Mdjla5Ri/Waxed%20Indicator%201.1.x.zip"
+hash-format = "sha512"
+hash = "985b59fc4d6b57b6337e62e489061a96b8f6e3b82fb67b4180f363fceaf9184b376ee6bca970570f0d34826d711502a5b1e32c18e49b033b950d9467eee60185"
+
+[update]
+[update.modrinth]
+mod-id = "tNQTi6ma"
+version = "Mdjla5Ri"

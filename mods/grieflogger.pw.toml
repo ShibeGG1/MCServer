@@ -1,0 +1,13 @@
+name = "GriefLogger"
+filename = "grieflogger-1.2.8-1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oGVUFuX/versions/FEJaHtfm/grieflogger-1.2.8-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "b0f6d210cc46602785e4e720dd7d946aa7228df3a0b748988f30f8c0a793832eb2d0155b35d3adbcba4e3d9ceb0a44a6765cae7de5c48fbaf297a1dcd61e6c7c"
+
+[update]
+[update.modrinth]
+mod-id = "8oGVUFuX"
+version = "FEJaHtfm"

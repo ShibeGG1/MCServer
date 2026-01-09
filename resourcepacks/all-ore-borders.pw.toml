@@ -1,0 +1,13 @@
+name = "Ore Borders"
+filename = "Ore Borders.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SqQ31Yan/versions/4Ybiib5T/Ore%20Borders.zip"
+hash-format = "sha512"
+hash = "fc9b0b0d260ce374ad4d51274269022e1694389b6b4fb7084c4b4504251c96aaa4ecf6a62d6e4bcf0d035a0ca66dbd3d00a05f167c2b571b7111555935003036"
+
+[update]
+[update.modrinth]
+mod-id = "SqQ31Yan"
+version = "4Ybiib5T"

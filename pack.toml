@@ -1,0 +1,13 @@
+name = "Chair MC V2"
+author = "SobakinTech"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7ff1b8e53037ef614f9988c166c118041837ebf2b92203ba4f7c66f18060e760"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"

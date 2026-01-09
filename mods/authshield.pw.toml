@@ -1,0 +1,13 @@
+name = "AuthShield"
+filename = "authshield-1.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JpIaV7e9/versions/LUNfVBqH/authshield-1.0.4.jar"
+hash-format = "sha512"
+hash = "053548ee423050d13540d2679ef0a123fc8cb569c4558c6ade62ba4a5f859b207c26a8c39eca4430b46b38f79e2fb2f131e92accb03c570f979d040651ef1152"
+
+[update]
+[update.modrinth]
+mod-id = "JpIaV7e9"
+version = "LUNfVBqH"

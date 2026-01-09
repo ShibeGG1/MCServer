@@ -1,0 +1,13 @@
+name = "Crop Growth Indicator"
+filename = "CropGrowth_V1.1.6r.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zqAASVbG/versions/G5aGRo4U/CropGrowth_V1.1.6r.zip"
+hash-format = "sha512"
+hash = "42870eea6fa643ce079d8b96667d0103c0315faf4b0831f957df3e3c86de6ec42e0ad79cbbae909d9b35ca267794d86f17d3c47e0302b7ba62dd05ff46ec7ff8"
+
+[update]
+[update.modrinth]
+mod-id = "zqAASVbG"
+version = "G5aGRo4U"

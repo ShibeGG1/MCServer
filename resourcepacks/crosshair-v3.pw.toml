@@ -1,0 +1,13 @@
+name = "Crosshair v3"
+filename = "Crosshair V3 1.21 - 1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAi78jc6/versions/HhVgBNly/Crosshair%20V3%201.21%20-%201.21.1.zip"
+hash-format = "sha512"
+hash = "ab7af8bd2d3b697f6427649ba7e7748a4f1d7e96862c90160312d0be97f89b86b6765863812104ad2a0286591a47f783a70edc42eba9d19b7876f47f5e610d2b"
+
+[update]
+[update.modrinth]
+mod-id = "BAi78jc6"
+version = "HhVgBNly"
